@@ -12,3 +12,6 @@ while(learning>=0){
 return 0;
 }
 ```
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/pritam-ravani)
+
