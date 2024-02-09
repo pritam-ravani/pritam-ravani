@@ -1,3 +1,5 @@
+<div style="width50%">
+
 ```c
 #include<pritam.h>
 void main()
@@ -12,8 +14,8 @@ while(learning>=0){
 return 0;
 }
 ```
-
-# Lets Stats
+</div>
+# Let's Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-ravani&show_icons=true&count_private=true)](https://github.com/pritam-ravani)
 
