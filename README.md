@@ -1,4 +1,4 @@
-```
+```c
 #include<pritam.h>
 void main()
 {
