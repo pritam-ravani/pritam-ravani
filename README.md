@@ -1,3 +1,4 @@
+```
 #include<pritam.h>
 void main()
 {
@@ -10,3 +11,4 @@ while(learning>=0){
 }
 return 0;
 }
+```
