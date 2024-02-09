@@ -1,4 +1,4 @@
-<div style="width50%">
+<div style="width:50%">
 
 ```c
 #include<pritam.h>
