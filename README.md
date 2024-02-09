@@ -1,4 +1,4 @@
-
+<p>
 ```c
 #include<pritam.h>
 void main()
@@ -12,7 +12,8 @@ while(learning>=0){
 }
 return 0;
 }
-```
+</p>```
+
 # Let's Stats
 <div style="width:50%">
 
